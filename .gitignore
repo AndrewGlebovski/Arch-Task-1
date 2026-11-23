@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+
+# Virtual Environment
+.venv/
+venv/
+
+# Logs
+*.log
+
+# Visual Studio Code
+.vscode/
+
+# Output
+*.csv
